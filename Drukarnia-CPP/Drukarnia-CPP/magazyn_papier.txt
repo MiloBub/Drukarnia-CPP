@@ -1,0 +1,4 @@
+syntetyczny;zwoj;320*60;32.45
+drzewny;arkusz;320*800;56
+celulozowy;zwoj;100*100;75
+ksero;arkusz;297*420;99

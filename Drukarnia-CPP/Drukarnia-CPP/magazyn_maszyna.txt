@@ -1,0 +1,4 @@
+sitodruk;plakat;arkusz;1000*1414;1;5.2;0;0
+fleksodruk;naklejki;zwoj;841*1189;1;5.2;100;4.5
+fotoelektryczna;ksero;arkusz;50*50;0;0.3;0;0
+fotoelektryczna;ksero;arkusz;297*420;1;0.3;0;0
